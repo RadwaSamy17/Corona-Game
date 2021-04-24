@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/StartMenu.unity
+    guid: 7a8f480405eb5c647addfd519f2a41ba
+  - enabled: 1
+    path: Assets/_Scenes/areyouready.unity
+    guid: 532d5af8167334245a722e148e0c9e83
+  - enabled: 1
+    path: Assets/_Scenes/bodyinfect.unity
+    guid: ed47bcd4c4fca2742b16d115098dcf09
+  - enabled: 1
+    path: Assets/_Scenes/level1intro.unity
+    guid: 4b33747d504e87847900558c21e1b004
+  - enabled: 1
+    path: Assets/_Scenes/SampleScene1.unity
+    guid: 19e21b09ad9856440b34457be928ff04
+  - enabled: 1
+    path: Assets/_Scenes/timeisup.unity
+    guid: a71137a0fe97d1841aba55a539a3c4df
+  - enabled: 1
+    path: Assets/_Scenes/level2.unity
+    guid: 69fa17808b134744ebe234db9f63ce09
+  - enabled: 1
+    path: Assets/_Scenes/Level3_Wave1.unity
+    guid: f1b943c4ce523bd46a88b41f00b61181
+  - enabled: 1
+    path: Assets/_Scenes/Level3_Wave2.unity
+    guid: f7f9fd8b35b3eae4abc4adbadbc4c975
+  - enabled: 1
+    path: Assets/_Scenes/Level3_Wave3.unity
+    guid: 8e14d5ee00e59c74c9d811c56cb2016a
+  - enabled: 1
+    path: Assets/_Scenes/WiningVideo.unity
+    guid: 4c2cbd246c963124eb4e4ed711634eb9
+  - enabled: 1
+    path: Assets/_Scenes/LosingVideo.unity
+    guid: 49c1bbfa0c239e04eac246a18f7cd701
+  - enabled: 1
+    path: Assets/_Scenes/EndMenu.unity
+    guid: 8c4343637c245ac49a5d858dc62657d3
+  m_configObjects: {}
